@@ -48,3 +48,11 @@ For more information, see https://freedoom.github.io/.
 | Touchpad Click | Tab | Automap
 | Options | Escape | Menu
 |===
+
+== Next Update
+
+=== Custom Music Support
+
+Allows players to customize the game music by adding their own tracks to:
+
+`/data/freedoom/music`
