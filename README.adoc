@@ -22,3 +22,27 @@ compatibility with _Doom II_ mods.
 *FreeDM*:: A 32-level game designed for competitive deathmatch play.
 
 For more information, see https://freedoom.github.io/.
+
+
+== Gamepad Controls
+
+[cols="2,2,2", options="header"]
+|===
+| Gamepad Control (PS4) | Keyboard Control | Doom Control
+| Cross (×) | Enter | Enter / Select
+| Circle (○) | Escape | Menu / Cancel
+| Square (□) | Shift | Run
+| Triangle (△) | Space | Use
+| L1 | [ | Previous Weapon
+| R1 | ] | Next Weapon
+| L2 | Alt | Strafe
+| R2 | Ctrl | Fire
+| L3 | Shift | Run
+| R3 | Ctrl | Fire
+| D-Pad Up | Up / W | Move Up / Forward
+| D-Pad Down | Down / S | Move Down / Backward
+| D-Pad Left | Left / A | Move Left
+| D-Pad Right | Right / D | Move Right
+| Touchpad Click | Tab | Automap
+| Options | Escape | Menu
+|===
