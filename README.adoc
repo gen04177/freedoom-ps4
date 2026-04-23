@@ -23,9 +23,6 @@ compatibility with _Doom II_ mods.
 
 For more information, see https://freedoom.github.io/.
 
-*Recommended resolution: 720p*
-
-
 == Gamepad Controls
 
 [cols="2,2,2", options="header"]
