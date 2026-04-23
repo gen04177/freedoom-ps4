@@ -4,9 +4,7 @@ _Freedoom_ is a complete, free content first person shooter game,
 based on the _Doom_ engine.
 
 _Freedoom_ is not a program - rather, it consists of the levels,
-artwork, sound effects and music that make up the game. To play
-_Freedoom_, <<How-to-play,it must be paired with an engine>> that
-can play it.
+artwork, sound effects and music that make up the game.
 
 _Freedoom_ is actually three games in one, consisting of two
 single-player oriented campaigns and one set of levels designed
