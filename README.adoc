@@ -44,10 +44,6 @@ For more information, see https://freedoom.github.io/.
 | Options | Escape | Menu
 |===
 
-== Next Update
+== Background music info...
 
-=== Custom Music Support
-
-Allows players to customize the game music by adding their own tracks to:
-
-`/data/freedoom/music`
+No custom music added? Then the background tracks are by gen04177 — crafted with AI.
